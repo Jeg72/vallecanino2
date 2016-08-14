@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+
+<title> RSS</title>
+<link>http://www.vallecanino.com.ve/ </link>
+<description>Consultorio Veterinarios</description>
+
+<item>
+
+<title>Visita nuestro sitio</title>
+<link>http://www.vallecanino.com.ve/#blog</link>
+<description>Nuestro Blog Informativo con noticias de Interes</description>
+
+</item>
+
+<item>
+
+<title>Valle canino</title>
+<link>http://www.vallecanino.com.ve/#contacto</link>
+<description>Ubicanos en la siguiente Direccion</description>
+
+</item>
+
+</channel>
+</rss>
+
